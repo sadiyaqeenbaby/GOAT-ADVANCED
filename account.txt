@@ -64,12 +64,11 @@
     },
     {
         "key": "xs",
-        "value": "19%3ABt2kdTMlnZ4gfQ%3A2%3A1770302619%3A-1%3A-1",
+        "value":-1",
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
-        "creation": "2026-02-07T09:01:20.464Z",
-        "lastAccessed": "2026-02-07T09:01:20.464Z"
+        "creation": "2026-02-07T09:01:20.464Z"
     },
     {
         "key": "locale",
@@ -92,15 +91,12 @@
     {
         "key": "dpr",
         "value": "2",
-        "domain": "facebook.com",
-        "path": "/",
-        "hostOnly": false,
+        "domain": 
         "creation": "2026-02-07T09:01:20.465Z",
         "lastAccessed": "2026-02-07T09:01:20.465Z"
     },
     {
-        "key": "fr",
-        "value": "06ulJpnsq85bJ7GSm.AWfMQJ2H8Dfj4ph4ngz3FQTpZYRlJeauIQPDTl4CxQ0WkMlQtJo.Bpc7UK..AAA.0.0.Bphv9e.AWd3dhyUB7lUZOLG8m1WjsVpvoU",
+        
         "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
